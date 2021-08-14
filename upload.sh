@@ -1,3 +1,3 @@
 git add -A
-git commit -m 'sort out notes'
+git commit -m 'upload'
 git push origin master
