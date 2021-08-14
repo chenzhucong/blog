@@ -1,5 +1,3 @@
-# 上传blog
 git add -A
-git commit -m 'upload'
-git push
-cd -
+git commit -m 'sort out notes'
+git push origin master
