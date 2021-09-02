@@ -16,7 +16,7 @@ module.exports = [
   },
   {
     text: "后端",
-    link: "/03.backend/",
+    link: "/backend/",
     items: [
       { text: "Nodejs", link: "/backend/nodejs/" },
       { text: "MySQL", link: "/backend/mysql/" },
@@ -24,7 +24,7 @@ module.exports = [
   },
   {
     text: "其他",
-    link: "/10.other/",
+    link: "/other/",
     items: [
       { text: "规范", link: "/other/norm/" },
       { text: "工具", link: "/other/tool/" },
