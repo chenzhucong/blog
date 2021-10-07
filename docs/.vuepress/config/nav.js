@@ -6,8 +6,7 @@ module.exports = [
     text: "前端",
     link: "/frontend/",
     items: [
-      { text: "HTML", link: "/frontend/HTML/" },
-      { text: "CSS", link: "/frontend/CSS/" },
+      { text: "HTML & CSS", link: "/frontend/HTML & CSS/" },
       { text: "JavaScript", link: "/frontend/JavaScript/" },
       { text: "Vue", link: "/frontend/Vue/" },
       { text: "React", link: "/frontend/React/" },
