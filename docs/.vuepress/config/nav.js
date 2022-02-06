@@ -6,7 +6,7 @@ module.exports = [
     text: "前端",
     link: "/frontend/",
     items: [
-      { text: "三剑客", link: "/frontend/三剑客/" },
+      { text: "三剑客", link: "/frontend/web/" },
       { text: "Vue", link: "/frontend/Vue/" },
       { text: "React", link: "/frontend/React/" },
       { text: "Webpack", link: "/frontend/Webpack/" },
