@@ -6,8 +6,7 @@ module.exports = [
     text: "前端",
     link: "/frontend/",
     items: [
-      { text: "HTML & CSS", link: "/frontend/HTML & CSS/" },
-      { text: "JavaScript", link: "/frontend/JavaScript/" },
+      { text: "三剑客", link: "/frontend/三剑客/" },
       { text: "Vue", link: "/frontend/Vue/" },
       { text: "React", link: "/frontend/React/" },
       { text: "Webpack", link: "/frontend/Webpack/" },
@@ -29,7 +28,7 @@ module.exports = [
       { text: "工具", link: "/other/tool/" },
     ],
   },
-  { text: "读书笔记", link: "/readingnote/" },
+  { text: "随笔", link: "/essay/" },
   {
     text: "索引",
     link: "/archives/",
